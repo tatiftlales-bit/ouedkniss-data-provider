@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "last_update": "2026-01-23",
+    "cars": [
+        {
+            "model": "Symbol",
+            "price": "2200000"
+        },
+        {
+            "model": "Golf 7",
+            "price": "4500000"
+        }
+    ]
+}
