@@ -2,17 +2,17 @@
   "brands": [
     {
       "brand_name": "Renault",
-      "brand_logo": "ضع_رابط_شعار_رونو_هنا",
+      "brand_logo": "https://raw.githubusercontent.com/tatiftlales-bit/ouedkniss-data-provider/main/Cars/UE/Renault.png",
       "models": [
         {
           "model_name": "Clio 4",
-          "model_image": "ضع_رابط_صورة_كليو4_هنا",
+          "model_image": "https://raw.githubusercontent.com/tatiftlales-bit/ouedkniss-data-provider/main/Cars/UE/Clio 4.png",
           "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=clio%204",
           "info": "المحرك: 1.5 dCi أو 1.2 بنزين. سيارة شبابية بامتياز وتتوفر بقطع غيار واسعة في الجزائر."
         },
         {
           "model_name": "Symbol",
-          "model_image": "ضع_رابط_صورة_سيمبول_هنا",
+          "model_image": "https://raw.githubusercontent.com/tatiftlales-bit/ouedkniss-data-provider/main/Cars/UE/Symbol.png",
           "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=renault%20symbol",
           "info": "المحرك: 1.2 أو 1.6 بنزين. السيارة العائلية الأكثر انتشاراً، تتميز بمساحة تخزين كبيرة وصيانة سهلة."
         }
