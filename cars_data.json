@@ -2,25 +2,67 @@
   "brands": [
     {
       "brand_name": "Renault",
-      "brand_logo": "https://raw.githubusercontent.com/username/repo/main/logos/renault.png",
+      "brand_logo": "ضع_رابط_شعار_رونو_هنا",
       "models": [
         {
           "model_name": "Clio 4",
-          "model_image": "https://raw.githubusercontent.com/username/repo/main/cars/clio4.png",
+          "model_image": "ضع_رابط_صورة_كليو4_هنا",
           "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=clio%204",
-          "info": "سيارة فرنسية مشهورة في الجزائر، اقتصادية ومطلوبة."
+          "info": "المحرك: 1.5 dCi أو 1.2 بنزين. سيارة شبابية بامتياز وتتوفر بقطع غيار واسعة في الجزائر."
+        },
+        {
+          "model_name": "Symbol",
+          "model_image": "ضع_رابط_صورة_سيمبول_هنا",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=renault%20symbol",
+          "info": "المحرك: 1.2 أو 1.6 بنزين. السيارة العائلية الأكثر انتشاراً، تتميز بمساحة تخزين كبيرة وصيانة سهلة."
         }
       ]
     },
     {
       "brand_name": "Hyundai",
-      "brand_logo": "https://raw.githubusercontent.com/username/repo/main/logos/hyundai.png",
+      "brand_logo": "ضع_رابط_شعار_هيونداي_هنا",
       "models": [
         {
           "model_name": "Accent",
-          "model_image": "https://raw.githubusercontent.com/username/repo/main/cars/accent.png",
+          "model_image": "ضع_رابط_صورة_أكسنت_هنا",
           "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=accent",
-          "info": "تعتبر من أكثر السيارات اعتمادية في السوق الجزائري."
+          "info": "المحرك: 1.4 أو 1.6 CRDi. أسطورة الاعتمادية في الجزائر، تتحمل المسافات الطويلة وسعرها مستقر."
+        },
+        {
+          "model_name": "i10",
+          "model_image": "ضع_رابط_صورة_i10_هنا",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=hyundai%20i10",
+          "info": "سيارة مدنية صغيرة، اقتصادية جداً في استهلاك الوقود ومثالية للزحام المروري."
+        }
+      ]
+    },
+    {
+      "brand_name": "Fiat",
+      "brand_logo": "ضع_رابط_شعار_فيات_هنا",
+      "models": [
+        {
+          "model_name": "Fiat 500",
+          "model_image": "ضع_رابط_صورة_فيات500_هنا",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=fiat%20500",
+          "info": "سيارة إيطالية أنيقة، عادت بقوة للسوق الجزائري مؤخراً بمحركات هجينة واقتصادية."
+        },
+        {
+          "model_name": "Tipo",
+          "model_image": "ضع_رابط_صورة_تيبو_هنا",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=fiat%20tipo",
+          "info": "سيارة سيدان مريحة، توفر تكنولوجيا حديثة ومساحة داخلية جيدة للعائلات."
+        }
+      ]
+    },
+    {
+      "brand_name": "Chery",
+      "brand_logo": "ضع_رابط_شعار_شيري_هنا",
+      "models": [
+        {
+          "model_name": "Tiggo 2 Pro",
+          "model_image": "ضع_رابط_صورة_تيغو2_هنا",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=chery%20tiggo%202",
+          "info": "سيارة كروس أوفر عصرية، تعتبر من أفضل الخيارات الجديدة من حيث السعر والمواصفات."
         }
       ]
     }
