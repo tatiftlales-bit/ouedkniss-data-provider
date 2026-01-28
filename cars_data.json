@@ -1,0 +1,28 @@
+{
+  "brands": [
+    {
+      "brand_name": "Renault",
+      "brand_logo": "https://raw.githubusercontent.com/username/repo/main/logos/renault.png",
+      "models": [
+        {
+          "model_name": "Clio 4",
+          "model_image": "https://raw.githubusercontent.com/username/repo/main/cars/clio4.png",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=clio%204",
+          "info": "سيارة فرنسية مشهورة في الجزائر، اقتصادية ومطلوبة."
+        }
+      ]
+    },
+    {
+      "brand_name": "Hyundai",
+      "brand_logo": "https://raw.githubusercontent.com/username/repo/main/logos/hyundai.png",
+      "models": [
+        {
+          "model_name": "Accent",
+          "model_image": "https://raw.githubusercontent.com/username/repo/main/cars/accent.png",
+          "ouedkniss_url": "https://www.ouedkniss.com/s/1?keywords=accent",
+          "info": "تعتبر من أكثر السيارات اعتمادية في السوق الجزائري."
+        }
+      ]
+    }
+  ]
+}
